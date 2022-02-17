@@ -67,6 +67,6 @@ nuevoUsuario.addMascota("Mi perrito");
 
 console.log(nuevoUsuario);
 
-nuevoUsuario.addBook("Libro Malo", "Autor Malo");
+nuevoUsuario.addBook("Libro Malo", "Autor Malo 1");
 
 console.log(nuevoUsuario.getBookNames);
